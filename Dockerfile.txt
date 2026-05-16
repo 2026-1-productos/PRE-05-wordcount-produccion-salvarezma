@@ -1,4 +1,3 @@
-#
 # docker build -t wordcount-app .
 # docker run --rm -v "$PWD/data/input:/data/input/" -v "$PWD/data/output:/data/output/" wordcount-app
 #
